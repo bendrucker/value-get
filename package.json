@@ -1,0 +1,37 @@
+{
+  "name": "value-get",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Create functional property getters",
+  "license": "MIT",
+  "repository": "bendrucker/value-get",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "value",
+    "get",
+    "functional",
+    "partial",
+    "dot",
+    "prop",
+    "property",
+    "getter"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "dot-prop": "~2.2.0"
+  }
+}
