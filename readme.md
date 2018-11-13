@@ -1,4 +1,4 @@
-# value-get [![Build Status](https://travis-ci.org/bendrucker/value-get.svg?branch=master)](https://travis-ci.org/bendrucker/value-get)
+# value-get [![Build Status](https://travis-ci.org/bendrucker/value-get.svg?branch=master)](https://travis-ci.org/bendrucker/value-get) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/value-get.svg)](https://greenkeeper.io/)
 
 > Create functional property getters
 
